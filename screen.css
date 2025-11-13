@@ -1,4 +1,4 @@
-/* === Core Layout === */
+
 * { box-sizing: border-box; }
 
 body {
@@ -14,7 +14,7 @@ body {
   padding: 0 1.5rem;
 }
 
-/* === Header === */
+
 .site-header {
   background: #fff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
@@ -74,7 +74,7 @@ body {
   border-radius: 2px;
 }
 
-/* === Main Content === */
+
 main {
   padding: 3rem 0;
 }
@@ -95,7 +95,7 @@ main {
   color: #444;
 }
 
-/* === Language Card === */
+
 .lang-card {
   background: white;
   border-radius: 12px;
@@ -145,7 +145,7 @@ main {
   color: #777;
 }
 
-/* === Footer === */
+
 .site-footer {
   background: #1a1f71;
   color: #ccc;
@@ -159,7 +159,7 @@ main {
   text-align: center;
 }
 
-/* === Responsive === */
+
 @media (max-width: 600px) {
   .site-header .container {
     flex-direction: column;
